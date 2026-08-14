@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-08-14T14:07:47",
+  "sourceCalendar": "Halamın İlaçları",
+  "sourceUrl": "https://user.fm/calendar/v1-255ab1dc55811071048bc9ba5392db25/Halam%C4%B1n%20%C4%B0la%C3%A7lar%C4%B1.ics",
+  "publicNote": "Bu dosya GitHub Pages üzerinde yayımlanırsa herkese açık olur; gizlilik sağlamaz.",
+  "events": [
+    {
+      "date": "2026-08-09",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "88f4aee2-d723-4c12-9363-f0cd49363748"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "💊 İlaca başla",
+      "description": "Doctor message: start medication after hemogram result. Use for 2 weeks, then pause for 1 week.",
+      "uid": "e95de04a-c675-4f1f-a873-16d4cbd7c785"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "d3446583-4a0e-4137-8494-1aeb65474413"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "bd34812f-0ea1-4763-95ce-2147dd931692"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "d7d571ea-baa2-4e0d-8f23-a42f9cf972a6"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "0df40c49-98b9-4499-affb-7e7e47686163"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "72df92fa-bc67-4b65-aea0-0e0800417c40"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "73cf6cec-9c43-4c9a-b371-f9a01b4846e3"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "71a40dac-3dfd-4da2-8a7e-96296cc05bf9"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "f6c9291b-16b0-4121-9039-909063e965b4"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "710f9d1e-515a-4c73-91ac-6ba2d1b5b497"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "b9c6840d-d2cc-40ae-964a-cd83ba61fe1c"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "f7b25107-c770-4338-9a9e-7ce0eb047685"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "dd908b80-5cfd-4e7a-99d9-e1b149bd51a7"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "💊 İlaç al",
+      "description": "2 haftalık ilaç kullanımı.",
+      "uid": "6fcf08ac-5150-4c53-87e5-d315bdde4f4d"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "⏸️ İlaca 1 hafta ara ver",
+      "description": "Two-week medication course completed; pause for 1 week.",
+      "uid": "460dab5b-2739-487b-adc9-7ff8a06fbbc9"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "✅ İlaç arasının bittiğini kontrol et",
+      "description": "One-week medication break ends today; check doctor/continuation plan.",
+      "uid": "7283d0d2-167d-4e74-81bb-37eeb9f1d6db"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2026-11-29",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2026-12-27",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-01-24",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-02-21",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-03-21",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-04-18",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-05-16",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-06-13",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-07-11",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-08-08",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-09-05",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    },
+    {
+      "date": "2027-10-03",
+      "title": "💉 İğne günü",
+      "description": "28 günde bir yapılan iğne. Son iğne: 9 Ağustos 2026.",
+      "uid": "34e4373f-c1d3-49c4-95b9-a891adbf269f"
+    }
+  ]
+}
